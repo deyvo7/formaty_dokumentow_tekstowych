@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+<vehicle type="car" fuel="petrol">
+	<brand>BMW</brand>
+	<model>428i</model>
+	<capacity>4</capacity>
+	<maxSpeed>unit="km/h">251</maxSpeed>
+</vehicle>
+<vehicle type="bike" fuel="none">
+<brand>romet</brand>
+	<model>escape 3</model>
+	<capacity>1</capacity>
+	<maxSpeed>unit="km/h">30</maxSpeed>
+</vehicle>
+<vehicle type="train" fuel="electric">
+<brand>PKP Intercity</brand>
+	<model>Pendolino</model>
+	<capacity>402</capacity>
+	<maxSpeed>unit="km/h">250</maxSpeed>
+</vehicle>
+</transport>

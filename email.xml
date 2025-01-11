@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+	<sender>
+		<name>Julia Milaniak</name>
+		<emailAddress>milaniakj@gmail.com</emailAddress>
+	</sender>
+	<recipient>
+		<name>Elżbieta Zawadzka</name>
+		<emailAddress>ela.zaww@gmail.com</emailAddress>
+	</recipient>
+	<subject>Meeting Hours</subject>
+	<body>
+		<text>Dear Ela,</text>
+		<text>I want to tell about our meeting hours. I am going to come to your house at 9 PM.</text>
+		<text>XOXO,</text>
+		<text>Julia, </text>
+	</body>
+</email>
+		

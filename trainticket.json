@@ -1,0 +1,19 @@
+{
+"ticketnumber": "123456789",
+"PassengerName": "Julia Milaniak",
+"TrainNumber": "IC 77",
+"Departure": {
+	"station": "Warsaw Central",
+	"time": "2024-11-24T10:20"
+},
+"Arrival": {
+	"station": "Cracow Main",
+	"time: "2024-11-24T14:50"
+},
+"Price": 100.05,
+"Seat": {
+	"Car": 8,
+	"SeatNumber": 77
+},
+"isRefundable": True
+}
